@@ -64,7 +64,7 @@
     - Author        : Sun Dimitri NFANDA
     - Date Created  : 2026-02-10
     - Last Modified : 2026-02-10
-    - Version       : 1.2
+    - Version       : 1.3
 
 .TESTED ON
     Date(s) Tested  : 2026-02-10
